@@ -4,7 +4,7 @@ The Topic Modelling research repository for the Digital Circular Electrochemical
 
 ### Data and Results
 
-The datasets and experimental results will be made publicly available following the [EPSRC Data Storage Policy](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/policy-framework-on-research-data/principles/) and [GDPR Regulations](https://gdpr-info.eu/). Currently, only the code for the models, hyperparameter optimization experiments, and data preprocessing scripts are publicly available. Full datasets and results will be shared after approval.
+The datasets and experimental results will be made publicly available following the [EPSRC Data Storage Policy](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/policy-framework-on-research-data/principles/) and [GDPR Regulations](https://gdpr-info.eu/). Currently, only the code for the models, hyperparameter optimisation experiments, and data preprocessing scripts are publicly available. Full datasets and results will be available after approval.
 
 ### Publication
 
