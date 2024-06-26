@@ -7,8 +7,8 @@ datasets/theguardian/all_keywords_data/guardian_all_data
 .ipynb_checkpoints/
 .pytest_cache/
 __pycache__/
-.DS_Store%
 .DS_Store
+.DS_Store%
 
 # Byte-compiled / Optimised / DLL files
 __pycache__/
