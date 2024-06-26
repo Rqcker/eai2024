@@ -70,3 +70,14 @@ This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LI
 ### Contact
 
 For any questions or further information, please contact the project team at [dcee.org.uk](https://dcee.org.uk/).
+
+### Citation
+
+```bibtext
+@article{song2024navigating,
+  title={Navigating Public Sentiment in the Circular Economy through Topic Modelling and Hyperparameter Optimisation},
+  author={Song, Junhao and Yuan, Yingfang and Chang, Kaiwen and Xu, Bing and Xuan, Jin and Pang, Wei},
+  journal={arXiv preprint arXiv:2405.10452},
+  year={2024}
+}
+```
