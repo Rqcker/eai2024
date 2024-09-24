@@ -1,6 +1,6 @@
-### Topic Modelling research in the Digital Circular Electrochemical Economy (DCEE) Project
+### Topic Modelling Research in the Digital Circular Electrochemical Economy (DCEE) Project
 
-The Topic Modelling research repository for the Digital Circular Electrochemical Economy (DCEE) project at Heriot-Watt University. This research is funded by Digital Circular Electrochemical Economy ([EP/V042432/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V042432/1)), and the UK Research and Innovation (UKRI) Interdisciplinary Centre for Circular Chemical Economy ([EP/V011863/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V011863/1)). In response to this call, we have united a cross-disciplinary team of leading researchers from three UK universities: Imperial College London, Loughborough University, and Heriot-Watt University.
+The Topic Modelling research repository for the Digital Circular Electrochemical Economy (DCEE) project at Heriot-Watt University. This research is funded by Digital Circular Electrochemical Economy ([EP/V042432/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V042432/1)), and the UK Research and Innovation (UKRI) Interdisciplinary Centre for Circular Chemical Economy ([EP/V011863/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V011863/1) and [EP/V011863/2](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V011863/2)). In response to this call, we have united a cross-disciplinary team of leading researchers from three UK universities: Imperial College London, Loughborough University, and Heriot-Watt University.
 
 ### Data and Results
 
