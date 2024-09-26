@@ -55,7 +55,7 @@ To ensure compatibility with the code, it is recommended to create a Python 3.8 
 
 ### Running the Scripts
 
-The repository contains scripts for different models (BERTopic, CorEx, LDA) and preprocessing steps. You can find the scripts in the `scripts` directory. Each subdirectory contains Jupyter notebooks (`.ipynb`) and Python scripts (`.py`) for hyperparameter tuning and grid search operations.
+The repository contains scripts for different models (BERTopic, CorEx, LDA) and preprocessing steps. You can find the scripts in the `scripts` directory. Each subdirectory contains Jupyter notebooks (`.ipynb`) and Python scripts (`.py`) for Single-objective Optimisation and BERTopic contains Single and Multi-objective Optimisation.
 
 To run a specific script, navigate to its directory and execute the script. For example:
 ```sh
@@ -74,8 +74,8 @@ For any questions or further information, please contact the project team at [dc
 ### Citation
 
 ```bibtext
-@article{song2024navigating,
-  title={Navigating Public Sentiment in the Circular Economy through Topic Modelling and Hyperparameter Optimisation},
+@article{song2024exploring,
+  title={Exploring Public Attention in the Circular Economy through Topic Modelling with Twin Hyperparameter Optimisation},
   author={Song, Junhao and Yuan, Yingfang and Chang, Kaiwen and Xu, Bing and Xuan, Jin and Pang, Wei},
   journal={arXiv preprint arXiv:2405.10452},
   year={2024}
