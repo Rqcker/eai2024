@@ -8,7 +8,9 @@ The datasets and experimental results will be made publicly available following 
 
 ### Publication
 
-This research has been submitted to the **JCR Q1** Elsevier journal ["Energy and AI"](https://www.sciencedirect.com/journal/energy-and-ai). The preprint is now available on [arXiv](https://arxiv.org/abs/2405.10452).
+The paper has been accepted by the **JCR Q1** Elsevier journal ["Energy and AI"](https://www.sciencedirect.com/journal/energy-and-ai). 
+
+The preprint is available on [arXiv](https://arxiv.org/abs/2405.10452).
 
 ### How to Use
 
