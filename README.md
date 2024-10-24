@@ -77,9 +77,11 @@ For any questions or further information, please contact the project team at [dc
 
 ```bibtext
 @article{song2024exploring,
-  title={Exploring Public Attention in the Circular Economy through Topic Modelling with Twin Hyperparameter Optimisation},
+  title={Exploring public attention in the circular economy through topic modelling with twin hyperparameter optimisation},
   author={Song, Junhao and Yuan, Yingfang and Chang, Kaiwen and Xu, Bing and Xuan, Jin and Pang, Wei},
-  journal={arXiv preprint arXiv:2405.10452},
-  year={2024}
+  journal={Energy and AI},
+  pages={100433},
+  year={2024},
+  publisher={Elsevier}
 }
 ```
