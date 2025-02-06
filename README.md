@@ -1,20 +1,20 @@
-### Topic Modelling Research in the Digital Circular Electrochemical Economy (DCEE) Project
+### 🌍🔍 Topic Modelling Research in the Digital Circular Electrochemical Economy (DCEE) Project
 
 The Topic Modelling research repository for the Digital Circular Electrochemical Economy (DCEE) project at Heriot-Watt University. This research is funded by Digital Circular Electrochemical Economy ([EP/V042432/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V042432/1)), and the UK Research and Innovation (UKRI) Interdisciplinary Centre for Circular Chemical Economy ([EP/V011863/1](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V011863/1) and [EP/V011863/2](https://gow.epsrc.ukri.org/NGBOViewGrant.aspx?GrantRef=EP/V011863/2)). In response to this call, we have united a cross-disciplinary team of leading researchers from three UK universities: Imperial College London, Loughborough University, and Heriot-Watt University.
 
-### Data and Results
+### 📊 Data and Results
 
-The datasets and experimental results will be made publicly available following the [EPSRC Data Storage Policy](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/policy-framework-on-research-data/principles/) and [GDPR Regulations](https://gdpr-info.eu/). Currently, only the code for the models, hyperparameter optimisation experiments, and data preprocessing scripts are publicly available. Full datasets and results will be available after approval.
+The datasets and experimental results will be made publicly available following the 🔐 [EPSRC Data Storage Policy](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/policy-framework-on-research-data/principles/) and 📜 [GDPR Regulations](https://gdpr-info.eu/). Currently, only the code for the models, hyperparameter optimisation experiments, and data preprocessing scripts are publicly available. Full datasets and results will be available after approval.
 
-### Publication
+### 🏆 Publication
 
-The [paper](https://www.sciencedirect.com/science/article/pii/S2666546824000995) has been published in the **JCR Q1** Elsevier journal 'Energy and AI'. 
+🎊 The [paper](https://www.sciencedirect.com/science/article/pii/S2666546824000995) has been published in the **JCR Q1** Elsevier journal 'Energy and AI' 🎉. 
 
-The [preprint](https://arxiv.org/abs/2405.10452) is available on arXiv.
+🔥 The [preprint](https://arxiv.org/abs/2405.10452) is available on arXiv 🚀.
 
-### How to Use
+### ⚙️ How to Use
 
-#### Creating a Python 3.8 Environment
+#### Creating a 🐍 Python 3.8 Environment
 
 To ensure compatibility with the code, it is recommended to create a Python 3.8 virtual environment. Follow these steps:
 
@@ -55,7 +55,7 @@ To ensure compatibility with the code, it is recommended to create a Python 3.8 
    pip install -r requirements.txt
    ```
 
-### Running the Scripts
+### 🚀 Running the Scripts
 
 The repository contains scripts for different models (BERTopic, CorEx, LDA) and preprocessing steps. You can find the scripts in the `scripts` directory. Each subdirectory contains Jupyter notebooks (`.ipynb`) and Python scripts (`.py`) for Single-objective Optimisation and BERTopic contains Single and Multi-objective Optimisation.
 
@@ -65,15 +65,15 @@ cd scripts/bertopic
 python bert_grid_guardian.py
 ```
 
-### License
+### 📜 License
 
 This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
 
-### Contact
+### 🌐 Contact
 
 For any questions or further information, please contact the project team at [dcee.org.uk](https://dcee.org.uk/).
 
-### Citation
+### 🔖 Citation
 
 ```bibtext
 @article{song2024exploring,
