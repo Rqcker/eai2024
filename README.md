@@ -69,9 +69,9 @@ python bert_grid_guardian.py
 
 This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
 
-### 🌐 Contact
+### 📬 Contact
 
-For any questions or further information, please contact the project team at [dcee.org.uk](https://dcee.org.uk/).
+For any questions or further information, please contact the project team at 🌐 [Digital Circular Electrochemical Economy (DCEE) Project](https://dcee.org.uk/) and 🏛️ [National Interdisciplinary Centre for the Circular Chemical Economy](https://www.circular-chemical.org/).
 
 ### 🔖 Citation
 
