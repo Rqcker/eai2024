@@ -4,9 +4,12 @@ The Topic Modelling research repository for the Digital Circular Electrochemical
 
 ### 📊 Data and Results
 
-The datasets and experimental results will be made publicly available following the 🔐 [EPSRC Data Storage Policy](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/policy-framework-on-research-data/principles/) and 📜 [GDPR Regulations](https://gdpr-info.eu/). Currently, only the code for the models, hyperparameter optimisation experiments, and data preprocessing scripts are publicly available. Full datasets and results will be available after approval. 
+The main dataset for this project is now publicly available via the university's open access repository:
 
-**19th Jun 2025 Update**: 🔥🔥🔥 We plan to release all datasets this month. They are currently under review by the university's OA team, cheers!
+- **DOI:** [10.17861/85bf3f9d-dc42-4b5c-8e29-47ddd0f0f687](https://doi.org/10.17861/85bf3f9d-dc42-4b5c-8e29-47ddd0f0f687)
+- **License:** This dataset is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
+The datasets and experimental results are made publicly available following the 🔐 [EPSRC Data Storage Policy](https://www.ukri.org/who-we-are/epsrc/our-policies-and-standards/policy-framework-on-research-data/principles/) and 📜 [GDPR Regulations](https://gdpr-info.eu/).
 
 ### 🏆 Publication
 
@@ -71,13 +74,19 @@ python bert_grid_guardian.py
 
 This project is licensed under the **Apache 2.0 License** - see the [LICENSE](LICENSE) file for details.
 
+**Dataset License:** The dataset is released under the [Creative Commons Attribution-NonCommercial 4.0 International (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/) license.
+
 ### 📬 Contact
 
 For any questions or further information, please contact the project team at 🌐 [Digital Circular Electrochemical Economy (DCEE) Project](https://dcee.org.uk/) and 🏛️ [National Interdisciplinary Centre for the Circular Chemical Economy](https://www.circular-chemical.org/).
 
+---
+
 ### 🔖 Citation
 
-```bibtext
+**If you use our code or refer to our publication, please cite the following BibTeX:**
+
+```bibtex
 @article{song2024exploring,
   title={Exploring public attention in the circular economy through topic modelling with twin hyperparameter optimisation},
   author={Song, Junhao and Yuan, Yingfang and Chang, Kaiwen and Xu, Bing and Xuan, Jin and Pang, Wei},
@@ -85,5 +94,19 @@ For any questions or further information, please contact the project team at �
   pages={100433},
   year={2024},
   publisher={Elsevier}
+}
+```
+
+If you use our dataset, please cite the following entry in your BibTeX:
+
+```bibtex
+@dataset{song2025public,
+  author    = {Song, Junhao and Yuan, Yingfang and Chang, Kaiwen and Xu, Bing and Xuan, Jin and Pang, Wei},
+  title     = {Public Attention Text Dataset on Circular Economy for Topic Modelling},
+  year      = {2025},
+  publisher = {Heriot-Watt University},
+  doi       = {10.17861/85bf3f9d-dc42-4b5c-8e29-47ddd0f0f687},
+  url       = {https://doi.org/10.17861/85bf3f9d-dc42-4b5c-8e29-47ddd0f0f687},
+  note      = {EAI2024Data(.zip)}
 }
 ```
